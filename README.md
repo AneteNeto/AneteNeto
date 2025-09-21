@@ -1,3 +1,6 @@
+
+![profilDesc](baNNER1.png)
+
 - 👋 Hi, I’m @AneteNeto
 - 👀 I’m interested in  Data Science and mobile development...
 - 🌱 I’m currently learning  Python for data analysis and mobile development...             
