@@ -1,5 +1,6 @@
 
-![profilDesc](baNNER1.png)
+![profilDesc](https://github.com/aneteneto/repositorio/raw/main/bANNER1.png)
+
 
 - 👋 Hi, I’m @AneteNeto
 - 👀 I’m interested in  Data Science and mobile development...
