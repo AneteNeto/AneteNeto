@@ -5,7 +5,7 @@
 
 ## Hello, I'm Anete NETO
 
-I am a student in 1st year of Master IOT 
+ Networks and IOT enthusiast 💻📡
 
 #### 🌐 How to reach me:
   <a href="https://www.linkedin.com/in/anete-neto/" target="_blank">
@@ -20,20 +20,6 @@ I am a student in 1st year of Master IOT
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=aneteneto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aneteneto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneteneto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aneteneto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=aneteneto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aneteneto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneteneto/aneteneto/output/pacman-contribution-graph-dark.svg">
@@ -42,7 +28,3 @@ I am a student in 1st year of Master IOT
 </picture>
 
 ###
-
-<!-- <img src="https://raw.githubusercontent.com/aneteneto/aneteneto/output/snake.svg" alt="Snake animation" /> -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
