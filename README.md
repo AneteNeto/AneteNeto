@@ -3,9 +3,10 @@
 <img src="https://raw.githubusercontent.com/aneteneto/aneteneto/main/bANNER1.png" alt="profilDesc" style="width: 90%; height: 400px;" >
  -->
 
-## Hello, I'm Anete NETO
 
- Networks and IOT enthusiast 💻📡
+## 👋🏿 Hello, I'm Anete NETO
+
+###### Networks and IOT enthusiast 💻📡
 
 #### 🌐 How to reach me:
   <a href="https://www.linkedin.com/in/anete-neto/" target="_blank">
@@ -19,7 +20,7 @@
 #### ✍️ Random Tech Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneteneto/aneteneto/output/pacman-contribution-graph-dark.svg">
@@ -27,4 +28,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aneteneto/aneteneto/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
